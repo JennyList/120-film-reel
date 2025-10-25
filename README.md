@@ -6,3 +6,5 @@ There are other spool models online, but they have the original -o- style Kodak 
 Print it with a brim and full supports.
 
 ![A render of the 120 film reel, from OpenSCAD](120-film-reel.png "120 film reel")
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
